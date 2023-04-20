@@ -1,0 +1,4 @@
+# Eidos
+This is an experimental project based on Figma that implements design to code. It can convert design files into web pages without requiring any coding knowledge. All you need is Figma.
+
+With Eidos, you can preview pages with dynamically rendered data sources in real-time. You can use this process to create your own personal website, blog, portfolio, and other common static websites. Unlike other static site generators, Eidos does not require you to dive into code details, but rather focuses more on design. All you need to do is to design the page in Figma and then build the data source table in Notion. Eidos will automatically bind the data source to Figma and preview the page with dynamically rendered data sources in real-time.
